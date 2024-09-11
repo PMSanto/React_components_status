@@ -1,0 +1,25 @@
+/* Modificar la fuente global del texto */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para las etiquetas h1 */
+h1 {
+    color: #003366; /* Azul oscuro */
+    text-align: center; /* Centrar el texto */
+}
+
+/* Estilos para los botones */
+button {
+    border: 2px solid #003366; /* Bordes azules */
+    font-weight: bold; /* Texto en negrita */
+    background-color: white; /* Fondo blanco */
+    color: #003366; /* Texto azul oscuro */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    cursor: pointer; /* Cambiar el cursor al pasar por encima */
+}
+
+button:hover {
+    background-color: #003366; /* Fondo azul oscuro al pasar el mouse */
+    color: white; /* Texto blanco cuando el fondo cambia */
+}

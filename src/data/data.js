@@ -10,7 +10,7 @@ export const sculptureList = [
       name: "La Pietà",
       artist: "Michelangelo",
       description: "Una representación de la Virgen María sosteniendo el cuerpo de Cristo después de la crucifixión, esculpida en mármol.",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/1/14/Michelangelo%27s_Pieta_5450_cut_out_black.jpg",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Michelangelo%27s_Pieta_5450_cropncleaned.jpg/1200px-Michelangelo%27s_Pieta_5450_cropncleaned.jpg",
       alt: "Escultura de La Pietà por Michelangelo"
     },
     {
